@@ -1,0 +1,14 @@
+fieldset{
+    width: 100px;
+    border-color: black;
+}
+#submit{
+    width: 180px;
+
+    
+}
+#submit.hover{
+    background-color: black;
+    color: azure;
+
+}
